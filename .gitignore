@@ -1,0 +1,6 @@
+#Exclude node_modules
+node_modules
+
+#Exclude logs
+logs/*
+!logs/.gitkeep
